@@ -20,6 +20,7 @@
 
 ## OUTPUT
 
+![kaviyaex10](https://github.com/kaviyaelumalai/EX10_Web-Design/assets/127817032/a812e618-b1f0-4cc2-b7bc-64db3771c9d1)
 
 ## RESULT
   A web page for an Agricultural Agency is designed using WordPress.
